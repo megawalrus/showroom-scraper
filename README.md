@@ -7,6 +7,6 @@
 * Note that not all films will have aggregate review scores on Rotten Tomatoes. In these cases, the rating is given as 'Not available'.
 
 ## DEPENDENCIES
-Python 3
-beautifulsoup 4
-yagmail 0.5.140
+* Python 3
+* beautifulsoup 4
+* yagmail 0.5.140
